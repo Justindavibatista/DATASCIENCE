@@ -58,7 +58,4 @@ Sugerencias de precios dinámicos para maximizar ganancias.
 Recomendaciones personalizadas en plataformas como Netflix o Amazon.
 Optimización de rutas de transporte para reducir costos.
 
-Relación entre los tipos de analíticas
-Descriptiva → Proporciona el contexto y los datos clave.
-Predictiva → Utiliza los datos históricos para anticipar el futuro.
-Prescriptiva → Utiliza las predicciones para guiar las decisiones y estrategias.
+
