@@ -39,7 +39,12 @@ Reportes de ventas mensuales.
 Análisis del tráfico web de los últimos 6 meses.
 Identificación de las tendencias de consumo de clientes.
 
-2. Analítica Predictiva
+2. Analítica diagnóstica 
+En este paso vamos un poco más a fondo del qué pasó: buscamos entender el cómo, es decir ¿por qué pasó? 
+
+Por ejemplo, la empresa de cursos de cocina notó que durante el 2022 aumentó el tráfico a la página web de recetas mexicanas. En este punto se trata de averiguar por qué se dio ese crecimiento. 
+
+3. Analítica Predictiva
 Se centra en el futuro y responde a la pregunta: ¿Qué podría ocurrir?
 
 Propósito: Usar datos históricos y algoritmos avanzados para predecir eventos o comportamientos futuros.
@@ -49,7 +54,7 @@ Previsión de demanda de productos.
 Predicción del churn (clientes que abandonarán el servicio).
 Estimación del tiempo de entrega en una logística.
 
-3. Analítica Prescriptiva
+4. Analítica Prescriptiva
 Se orienta hacia la acción y responde a la pregunta: ¿Qué debería hacerse?
 
 Propósito: Proponer acciones óptimas basadas en predicciones para alcanzar los objetivos deseados.
