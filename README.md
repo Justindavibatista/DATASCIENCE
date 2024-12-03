@@ -14,21 +14,10 @@ Conocimiento
 Surge al analizar la información obtenida de la base de datos y aplicarla en la toma de decisiones o generación de estrategias.
 Se relaciona con el uso de herramientas avanzadas como minería de datos o aprendizaje automático.
 
+
+
+
 Cuales son los tipos de datos?
-
-1. Analítica Descriptiva
-Se enfoca en el pasado y responde a la pregunta: ¿Qué ocurrió?
-
-Propósito: Proporcionar un resumen claro y comprensible de los datos históricos.
-Métodos: Estadísticas básicas, visualización de datos (gráficos, tablas, dashboards).
-Ejemplos:
-Reportes de ventas mensuales.
-Análisis del tráfico web de los últimos 6 meses.
-Identificación de las tendencias de consumo de clientes.
-
-
-Existen tres tipos principales de analíticas de datos, cada una con un enfoque y propósito distinto. A continuación, se detallan:
-
 1. Analítica Descriptiva
 Se enfoca en el pasado y responde a la pregunta: ¿Qué ocurrió?
 
@@ -59,9 +48,30 @@ Se orienta hacia la acción y responde a la pregunta: ¿Qué debería hacerse?
 
 Propósito: Proponer acciones óptimas basadas en predicciones para alcanzar los objetivos deseados.
 Métodos: Simulación, optimización, algoritmos de toma de decisiones.
-Ejemplos:
-Sugerencias de precios dinámicos para maximizar ganancias.
-Recomendaciones personalizadas en plataformas como Netflix o Amazon.
-Optimización de rutas de transporte para reducir costos.
+
+
+
+
+CUESTIONARIO 
+1.	Una tienda en línea analiza sus ventas pasadas para ver cuántos productos se han vendido cada mes.
+	•	Descriptiva: Se enfoca en describir lo que ya ha ocurrido.
+
+2.	Una empresa de telecomunicaciones utiliza datos históricos para predecir la probabilidad de cancelación de sus clientes en los próximos meses.
+	•	Predictiva: Intenta anticipar eventos futuros con base en datos pasados
+
+3.	Un banco utiliza datos de clientes para predecir la probabilidad de que un cliente solicite un préstamo en el futuro.
+	•	Predictiva: Analiza probabilidades futuras.
+
+4.	Un sistema de gestión de inventarios de una tienda de alimentos utiliza datos históricos y algoritmos para optimizar las compras y evitar desabastecimientos.
+	•	Prescriptiva: Sugiere acciones a tomar para evitar desabastecimientos.
+
+5.	Un minorista investiga la caída en las ventas de un producto durante el mes pasado, revisando cambios en la demanda o en la competencia.
+	•	Diagnóstica: Se enfoca en encontrar las causas de un problema pasado.
+
+6.	Un sitio web analiza el número de visitantes mensuales y la duración promedio de las sesiones para evaluar el tráfico.
+	•	Descriptiva: Describe patrones existentes en los datos.
+
+7.	Un hospital investiga por qué un aumento en los casos de gripe ocurrió en un mes específico, analizando factores como el clima o la ubicación geográfica.
+	•	Diagnóstica: Busca explicar las razones detrás de un fenómeno.
 
 
