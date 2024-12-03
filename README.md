@@ -86,10 +86,10 @@ d) [2 + 6(2 x 5) - 10 ÷ 2)
 e) {20 + [5 - 60 ÷ 3 + 2(4 - 3)]} 
 
 r/
-a)Respuesta: 5
-b)Respuesta: 23
-c)Respuesta: 12
-d)Respuesta: 57
-e)Respuesta: 7
+a) 5
+b) 23
+c) 12
+d) 57
+e) 7
 
 
