@@ -1,5 +1,6 @@
 # DATASCIENCE
 CLASE 1
+
 Datos
 Representan los valores almacenados en las bases de datos.
 Son unidades individuales de información como números, texto, fechas o registros en tablas.
